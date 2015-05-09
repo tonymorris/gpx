@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    "THE BEER-WARE LICENSE" (Revision 42):
+    Tony Morris <tmorris@tmorris.net> wrote this file. As long as you retain this notice you
+    can do whatever you want with this stuff. If we meet some day, and you think
+    this stuff is worth it, you can buy me a beer in return.
+
+    Tony Morris
+-->
+
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<metadata>
+  <name>Brisbane Motorcycle Parking</name>
+  <desc>Brisbane City Council (inner city) Motorcycle Parking http://www.brisbane.qld.gov.au/traffic-transport/parking-permits/cbd-parking/motorcycle-parking-cbd/index.htm</desc>
+  <author>
+    <name>Tony Morris</name>
+    <email id="tmorris" domain="tmorris.net"/>
+    <link href="http://tmorris.net">
+      <text>Tony Morris</text>
+      <type>HTTP</type>
+    </link>
+  </author>
+  <copyright author="Tony Morris">
+    <year>2015</year>
+    <license>http://en.wikipedia.org/wiki/Beerware</license>
+  </copyright>
+</metadata>
+
+<!-- Motorcycle parking, Brisbane http://www.brisbane.qld.gov.au/traffic-transport/parking-permits/cbd-parking/motorcycle-parking-cbd/index.htm -->
+<wpt lat="-27.469193000" lon="153.019562000">
+  <ele>0.000000</ele>
+  <name>MC P 34 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.469461000" lon="153.020386000">
+  <ele>0.000000</ele>
+  <name>MC P 31 Spaces</name>
+  <cmt>Free Foothpath and On-Street parking</cmt>
+  <desc>Free Foothpath and On-Street parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.470198000" lon="153.021301000">
+  <ele>0.000000</ele>
+  <name>MC P 77 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.454027000" lon="153.033981000">
+  <ele>0.000000</ele>
+  <name>MC P 12 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.454252000" lon="153.034256000">
+  <ele>0.000000</ele>
+  <name>MC P 6 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.454617000" lon="153.037033000">
+  <ele>0.000000</ele>
+  <name>MC P 42 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.459372000" lon="153.030975000">
+  <ele>0.000000</ele>
+  <name>MC P 25 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.458549000" lon="153.031982000">
+  <ele>0.000000</ele>
+  <name>MC P 9 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.460072000" lon="153.035751000">
+  <ele>0.000000</ele>
+  <name>MC P 10 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.463989000" lon="153.027939000">
+  <ele>0.000000</ele>
+  <name>MC P 25 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.464243000" lon="153.027405000">
+  <ele>0.000000</ele>
+  <name>MC P 20 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.462605000" lon="153.029114000">
+  <ele>0.000000</ele>
+  <name>MC P 13 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.462603000" lon="153.030014000">
+  <ele>0.000000</ele>
+  <name>MC P 6 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.464670000" lon="153.026901000">
+  <ele>0.000000</ele>
+  <name>MC P 47 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.465477000" lon="153.025391000">
+  <ele>0.000000</ele>
+  <name>MC P 45 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.464546000" lon="153.030029000">
+  <ele>0.000000</ele>
+  <name>MC P 8 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.463888000" lon="153.031662000">
+  <ele>0.000000</ele>
+  <name>MC P 6 Spacse</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.466379000" lon="153.024170000">
+  <ele>0.000000</ele>
+  <name>MC P 26 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.466927000" lon="153.018616000">
+  <ele>0.000000</ele>
+  <name>MC P 3 Spaces</name>
+  <cmt>Free On-Street parking</cmt>
+  <desc>Free On-Street parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.470989000" lon="153.030319000">
+  <ele>0.000000</ele>
+  <name>MC P 12 Spaces</name>
+  <cmt>Free On-Street parking</cmt>
+  <desc>Free On-Street parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.471031000" lon="153.022247000">
+  <ele>0.000000</ele>
+  <name>MC P 3 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.471825000" lon="153.022888000">
+  <ele>0.000000</ele>
+  <name>MC P 22 Spaces</name>
+  <cmt>Free On-Street parking</cmt>
+  <desc>Free On-Street parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.471947000" lon="153.022858000">
+  <ele>0.000000</ele>
+  <name>MC P 9 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.472321000" lon="153.023392000">
+  <ele>0.000000</ele>
+  <name>MC P 7 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.472475000" lon="153.023590000">
+  <ele>0.000000</ele>
+  <name>MC P 8 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.472387000" lon="153.023300000">
+  <ele>0.000000</ele>
+  <name>MC P 9 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.473190000" lon="153.016617000">
+  <ele>0.000000</ele>
+  <name>MC P 34 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.481400000" lon="153.022308000">
+  <ele>0.000000</ele>
+  <name>MC P 10 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.474390000" lon="153.011505000">
+  <ele>0.000000</ele>
+  <name>MC P 8 Spaces</name>
+  <cmt>Free On-Street parking</cmt>
+  <desc>Free On-Street parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.475014000" lon="153.010895000">
+  <ele>0.000000</ele>
+  <name>MC P 4 Spaces</name>
+  <cmt>Free On-Street parking</cmt>
+  <desc>Free On-Street parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.456394000" lon="153.013840000">
+  <ele>0.000000</ele>
+  <name>MC P 18 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.491671000" lon="153.027252000">
+  <ele>0.000000</ele>
+  <name>MC P 21 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.494316000" lon="153.029114000">
+  <ele>0.000000</ele>
+  <name>MC P 10 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.476362000" lon="152.997406000">
+  <ele>0.000000</ele>
+  <name>MC P 4 Spaces</name>
+  <cmt>Free On-Street parking</cmt>
+  <desc>Free On-Street parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.456600000" lon="153.035294000">
+  <ele>0.000000</ele>
+  <name>MC P 3 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.471172000" lon="153.004700000">
+  <ele>0.000000</ele>
+  <name>MC P 9 Spaces</name>
+  <cmt>Free On-Street parking</cmt>
+  <desc>Free On-Street parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.471758000" lon="153.003220000">
+  <ele>0.000000</ele>
+  <name>MC P 20 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.497919000" lon="153.024445000">
+  <ele>0.000000</ele>
+  <name>MC P 9 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.465752000" lon="153.025253000">
+  <ele>0.000000</ele>
+  <name>MC P 12 Spaces</name>
+  <cmt>On-Street parking 3P Meter 9am-4pm Monday to Friday</cmt>
+  <desc>On-Street parking 3P Meter 9am-4pm Monday to Friday</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.468079000" lon="153.022202000">
+  <ele>0.000000</ele>
+  <name>MC P 25 Spaces</name>
+  <cmt>On-Street parking 12P Meter 7am-7pm Monday to Friday</cmt>
+  <desc>On-Street parking 12P Meter 7am-7pm Monday to Friday</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.467936000" lon="153.029251000">
+  <ele>0.000000</ele>
+  <name>MC P 10 Spaces</name>
+  <cmt>On-Street parking 1P Meter 7am-4pm, 7pm-10pm Monday to Friday 7am-7pm Saturday and Sunday</cmt>
+  <desc>On-Street parking 1P Meter 7am-4pm, 7pm-10pm Monday to Friday 7am-7pm Saturday and Sunday</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.471722000" lon="153.025986000">
+  <ele>0.000000</ele>
+  <name>MC P 19 Spaces</name>
+  <cmt>On-Street parking 11P Meter 7am-7pm Monday to Friday</cmt>
+  <desc>On-Street parking 11P Meter 7am-7pm Monday to Friday</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.479553000" lon="153.022308000">
+  <ele>0.000000</ele>
+  <name>MC P 10 Spaces</name>
+  <cmt>On-Street parking 2P Meter 7am-7pm Daily</cmt>
+  <desc>On-Street parking 2P Meter 7am-7pm Daily</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.480263000" lon="153.012238000">
+  <ele>0.000000</ele>
+  <name>MC P 4 Spaces</name>
+  <cmt>On-Street parking 2P Meter 7am-7pm Monday to Friday</cmt>
+  <desc>On-Street parking 2P Meter 7am-7pm Monday to Friday</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.474882000" lon="153.026962000">
+  <ele>0.000000</ele>
+  <name>MC P 12 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.474236000" lon="153.027786000">
+  <ele>0.000000</ele>
+  <name>MC P 10 Spaces</name>
+  <cmt>Free Footpath Parking</cmt>
+  <desc>Free Footpath Parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.474710000" lon="153.026138000">
+  <ele>0.000000</ele>
+  <name>MC P 22 Spaces</name>
+  <cmt>Free Footpath parking</cmt>
+  <desc>Free Footpath parking</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+<wpt lat="-27.459709000" lon="153.023224000">
+  <ele>0.000000</ele>
+  <name>MC P 8 Spaces</name>
+  <cmt>On-Street parking 9P Meter 8am-5pm Monday to Friday</cmt>
+  <desc>On-Street parking 9P Meter 8am-5pm Monday to Friday</desc>
+  <sym>Parking Area</sym>
+</wpt>
+
+</gpx>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    "THE BEER-WARE LICENSE" (Revision 42):
+    Tony Morris <tmorris@tmorris.net> wrote this file. As long as you retain this notice you
+    can do whatever you want with this stuff. If we meet some day, and you think
+    this stuff is worth it, you can buy me a beer in return.
+
+    Tony Morris
+-->
+
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<metadata>
+  <name>Interesting places</name>
+  <desc>Interesting places</desc>
+  <author>
+    <name>Tony Morris</name>
+    <email id="tmorris" domain="tmorris.net"/>
+    <link href="http://tmorris.net">
+      <text>Tony Morris</text>
+      <type>HTTP</type>
+    </link>
+  </author>
+  <copyright author="Tony Morris">
+    <year>2015</year>
+    <license>http://en.wikipedia.org/wiki/Beerware</license>
+  </copyright>
+</metadata>
+
+<wpt lat="-27.298654" lon="152.901167">
+  <ele>0.00000</ele>
+  <name>Old School Rd</name>
+  <cmt>Dirt Track</cmt>
+  <desc>Dirt Track</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-27.942780" lon="152.682220">
+  <ele>-59.341213</ele>
+  <name>Teviotville Tree</name>
+  <cmt>The Tree</cmt>
+  <sym>Park</sym>
+</wpt>
+
+</gpx>

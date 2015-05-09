@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    "THE BEER-WARE LICENSE" (Revision 42):
+    Tony Morris <tmorris@tmorris.net> wrote this file. As long as you retain this notice you
+    can do whatever you want with this stuff. If we meet some day, and you think
+    this stuff is worth it, you can buy me a beer in return.
+
+    Tony Morris
+-->
+
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<metadata>
+  <name>Swimming Holes</name>
+  <desc>Swimming Holes around south-east Queensland</desc>
+  <author>
+    <name>Tony Morris</name>
+    <email id="tmorris" domain="tmorris.net"/>
+    <link href="http://tmorris.net/">
+      <text>Tony Morris</text>
+      <type>HTTP</type>
+    </link>
+  </author>
+  <copyright author="Tony Morris">
+    <year>2015</year>
+    <license>http://en.wikipedia.org/wiki/Beerware</license>
+  </copyright>    
+</metadata>
+
+<wpt lat="-28.318643" lon="152.934106">
+  <ele>0.0000</ele>
+  <name>Andrew Drynan Park</name>
+  <cmt>Running Creek Rd</cmt>
+  <desc>Running Creek Rd</desc>
+  <sym>Swimming Area</sym>
+</wpt>
+
+<wpt lat="-28.373926" lon="152.975708">
+  <ele>0.0000</ele>
+  <name>Gradys Creek Rd</name>
+  <cmt>Gradys Creek Rd</cmt>
+  <desc>Gradys Creek Rd</desc>
+  <sym>Swimming Area</sym>
+</wpt>
+
+<wpt lat="-28.372767" lon="152.976333">
+  <ele>0.0000</ele>
+  <name>Splash Creek Crossings</name>
+  <cmt>Gradys Creek Rd, Cougal</cmt>
+  <desc>Gradys Creek Rd, Cougal</desc>
+  <sym>Swimming Area</sym>
+</wpt>
+
+<wpt lat="-28.413503" lon="153.024806">
+  <ele>0.0000</ele>
+  <name>Sheepstation Creek</name>
+  <cmt>Lynchs Crossing</cmt>
+  <desc>Lynchs Crossing</desc>
+  <sym>Swimming Area</sym>
+</wpt>
+
+</gpx>

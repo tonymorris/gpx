@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    "THE BEER-WARE LICENSE" (Revision 42):
+    Tony Morris <tmorris@tmorris.net> wrote this file. As long as you retain this notice you
+    can do whatever you want with this stuff. If we meet some day, and you think
+    this stuff is worth it, you can buy me a beer in return.
+
+    Tony Morris
+-->
+
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<metadata>
+  <name>Speed and red light cameras</name>
+  <desc>Queensland locations of speed and red light cameras https://www.qld.gov.au/transport/safety/fines/speed/location/index.html</desc>
+  <author>
+    <name>Tony Morris</name>
+    <email id="tmorris" domain="tmorris.net"/>
+    <link href="http://tmorris.net">
+      <text>Tony Morris</text>
+      <type>HTTP</type>
+    </link>
+  </author>
+  <copyright author="Tony Morris">
+    <year>2015</year>
+    <license>http://en.wikipedia.org/wiki/Beerware</license>
+  </copyright>
+</metadata>
+
+<wpt lat="-27.425768000" lon="153.032944000">
+  <ele>0.000000</ele>
+  <name>CAM Windsor N</name>
+  <cmt>Fixed speed camera: Airport Link Tunnel (Northbound), Windsor</cmt>
+  <desc>Fixed speed camera: Airport Link Tunnel (Northbound), Windsor</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.425797000" lon="153.033127000">
+  <ele>0.000000</ele>
+  <name>CAM Windsor, S</name>
+  <cmt>Fixed speed camera: Airport Link Tunnel (Southbound), Windsor</cmt>
+  <desc>Fixed speed camera: Airport Link Tunnel (Southbound), Windsor</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.412373000" lon="153.044632000">
+  <ele>0.000000</ele>
+  <name>CAM Wloowin, N</name>
+  <cmt>Fixed speed camera: Airport Link Tunnel (Northbound), Wooloowin</cmt>
+  <desc>Fixed speed camera: Airport Link Tunnel (Northbound), Wooloowin</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.412586000" lon="153.044800000">
+  <ele>0.000000</ele>
+  <name>CAM Wloowin, S</name>
+  <cmt>Fixed speed camera: Airport Link Tunnel (Southbound), Wooloowin</cmt>
+  <desc>Fixed speed camera: Airport Link Tunnel (Southbound), Wooloowin</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.611172000" lon="153.051071000">
+  <ele>0.000000</ele>
+  <name>CAM Calamvale</name>
+  <cmt>Combined red light / speed camera: Beaudesert Road and Compton Road, Calamvale</cmt>
+  <desc>Combined red light / speed camera: Beaudesert Road and Compton Road, Calamvale</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.166510000" lon="152.979904000">
+  <ele>0.000000</ele>
+  <name>CAM Burpengary</name>
+  <cmt>Fixed speed camera: Bruce Highway, Burpengary</cmt>
+  <desc>Fixed speed camera: Bruce Highway, Burpengary</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-26.795162000" lon="153.044067000">
+  <ele>0.000000</ele>
+  <name>CAM Landsborgh</name>
+  <cmt>Point-to-point speed camera system: Bruce Highway (Caloundra Road), Landsborough</cmt>
+  <desc>Point-to-point speed camera system: Bruce Highway (Caloundra Road), Landsborough</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-26.919102000" lon="152.994644000">
+  <ele>0.000000</ele>
+  <name>CAM Glshs Mtns</name>
+  <cmt>Point-to-point speed camera system: Bruce Highway (Johnston Road), Glasshouse Mountains</cmt>
+  <desc>Point-to-point speed camera system: Bruce Highway (Johnston Road), Glasshouse Mountains</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.451675000" lon="153.034103000">
+  <ele>0.000000</ele>
+  <name>CAM Clem7 N BH</name>
+  <cmt>Fixed speed camera: CLEM7 Tunnel (Northbound), Bowen Hills</cmt>
+  <desc>Fixed speed camera: CLEM7 Tunnel (Northbound), Bowen Hills</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.450850000" lon="153.033218000">
+  <ele>0.000000</ele>
+  <name>CAM Clem7 S BH</name>
+  <cmt>Fixed speed camera: CLEM7 Tunnel (Southbound), Bowen Hills</cmt>
+  <desc>Fixed speed camera: CLEM7 Tunnel (Southbound), Bowen Hills</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.483635000" lon="153.035553000">
+  <ele>0.000000</ele>
+  <name>CAM Clem7 N KP</name>
+  <cmt>Fixed speed camera: CLEM7 Tunnel (Northbound), Kangaroo Point</cmt>
+  <desc>Fixed speed camera: CLEM7 Tunnel (Northbound), Kangaroo Point</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.482780000" lon="153.035828000">
+  <ele>0.000000</ele>
+  <name>CAM Clem7 S KP</name>
+  <cmt>Fixed speed camera: CLEM7 Tunnel (Southbound), Kangaroo Point</cmt>
+  <desc>Fixed speed camera: CLEM7 Tunnel (Southbound), Kangaroo Point</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.369135000" lon="153.097351000">
+  <ele>0.000000</ele>
+  <name>CAM Nudgee</name>
+  <cmt>Fixed speed camera: Gateway Arterial Road, Nudgee</cmt>
+  <desc>Fixed speed camera: Gateway Arterial Road, Nudgee</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.956301000" lon="153.409439000">
+  <ele>0.000000</ele>
+  <name>CAM Labrador</name>
+  <cmt>Fixed speed camera: Gold Coast Highway, Labrador</cmt>
+  <desc>Fixed speed camera: Gold Coast Highway, Labrador</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.472284000" lon="153.035675000">
+  <ele>0.000000</ele>
+  <name>CAM Kangroo Pt</name>
+  <cmt>Fixed speed camera: Main Street, Kangaroo Point</cmt>
+  <desc>Fixed speed camera: Main Street, Kangaroo Point</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-26.667040000" lon="152.977966000">
+  <ele>0.000000</ele>
+  <name>CAM Woombye</name>
+  <cmt>Nambour Connection Rd (Northbound), Woombye</cmt>
+  <desc>Nambour Connection Rd (Northbound), Woombye</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-26.713989000" lon="153.129868000">
+  <ele>0.000000</ele>
+  <name>CAM Warana</name>
+  <cmt>Fixed speed camera: Nicklin Way, Warana</cmt>
+  <desc>Fixed speed camera: Nicklin Way, Warana</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.949751000" lon="153.341644000">
+  <ele>0.000000</ele>
+  <name>CAM Gaven</name>
+  <cmt>Pacific Motorway (Northbound), Gaven</cmt>
+  <desc>Pacific Motorway (Northbound), Gaven</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.688408000" lon="153.190826000">
+  <ele>0.000000</ele>
+  <name>CAM Loganholme</name>
+  <cmt>Fixed speed camera: Pacific Motorway, Loganholme</cmt>
+  <desc>Fixed speed camera: Pacific Motorway, Loganholme</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.521400000" lon="153.052963000">
+  <ele>0.000000</ele>
+  <name>CAM Tarragindi</name>
+  <cmt>Fixed speed camera: Pacific Motorway, Tarragindi</cmt>
+  <desc>Fixed speed camera: Pacific Motorway, Tarragindi</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-26.691099000" lon="153.109665000">
+  <ele>0.000000</ele>
+  <name>CAM Mooloolaba</name>
+  <cmt>Fixed speed camera: Sunshine Motorway, Mooloolaba</cmt>
+  <desc>Fixed speed camera: Sunshine Motorway, Mooloolaba</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.578951000" lon="152.740784000">
+  <ele>0.000000</ele>
+  <name>CAM Muirlea</name>
+  <cmt>Fixed speed camera: Warrego Highway, Muirlea</cmt>
+  <desc>Fixed speed camera: Warrego Highway, Muirlea</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.568260000" lon="151.995255000">
+  <ele>0.000000</ele>
+  <name>CAM Redwood</name>
+  <cmt>Fixed speed camera: Warrego Highway, Redwood</cmt>
+  <desc>Fixed speed camera: Warrego Highway, Redwood</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-27.445795000" lon="152.989014000">
+  <ele>0.000000</ele>
+  <name>CAM Ashgrove</name>
+  <cmt>Combined red light / speed camera: Waterworks Road and Jubilee Terrace, Ashgrove</cmt>
+  <desc>Combined red light / speed camera: Waterworks Road and Jubilee Terrace, Ashgrove</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+</gpx>
