@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Tony Morris tmorris@tmorris.net" version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>14 River Crossing, Condamine Gorge</name>
+    <desc>14 River Crossing, Condamine Gorge from Boonah to Killarney</desc>
+    <author>
+      <name>Tony Morris</name>
+      <email id="tmorris" domain="tmorris.net"/>
+      <link href="http://tmorris.net/">
+        <text>Tony Morris</text>
+        <type>HTTP</type>
+      </link>
+    </author>
+    <copyright author="Tony Morris">
+      <year>2013</year>
+      <license>http://en.wikipedia.org/wiki/Beerware</license>
+    </copyright>    
+  </metadata>
+
+  <wpt lat="-27.993738" lon="152.682577">
+    <ele>0.0000</ele>
+    <name>Boonah</name>
+    <cmt>Boonah, Queensland</cmt>
+    <desc>Boonah, Queensland</desc>
+    <sym>City (Medium)</sym>
+  </wpt>
+
+  <wpt lat="-28.112585" lon="152.639319">
+    <ele>0.0000</ele>
+    <name>Turn (W)</name>
+    <cmt>Carneys Ck Rd</cmt>
+    <desc>Carneys Ck Rd</desc>
+    <sym>Pin, Green</sym>
+  </wpt>
+
+  <wpt lat="-28.137659" lon="152.590288">
+    <ele>0.0000</ele>
+    <name>Croftby</name>
+    <cmt>Croftby</cmt>
+    <desc>Croftby</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+
+  <wpt lat="-28.214576" lon="152.537076">
+    <ele>0.0000</ele>
+    <name>Carneys Creek</name>
+    <cmt>Carneys Creek</cmt>
+    <desc>Carneys Creek</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+
+  <wpt lat="-28.237843" lon="152.480516">
+    <ele>0.0000</ele>
+    <name>The Head</name>
+    <cmt>The Head</cmt>
+    <desc>The Head</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+
+  <wpt lat="-28.27395" lon="152.446806">
+    <ele>0.0000</ele>
+    <name>Turn (WSW)</name>
+    <cmt>Condamine R Rd</cmt>
+    <desc>Condamine R Rd</desc>
+    <sym>Pin, Green</sym>
+  </wpt>
+
+  <wpt lat="-28.278722" lon="152.439035">
+    <ele>0.0000</ele>
+    <name>Oaklea BB</name>
+    <cmt>Oaklea BB</cmt>
+    <desc>Oaklea BB</desc>
+    <sym>Lodging</sym>
+  </wpt>
+
+  <wpt lat="-28.294141" lon="152.37411">
+    <ele>0.0000</ele>
+    <name>Crossing #1</name>
+    <cmt>Crossing #1</cmt>
+    <desc>Crossing #1</desc>
+    <sym>Crossing</sym>
+  </wpt>
+
+  <wpt lat="-28.293456" lon="152.37183">
+    <ele>0.0000</ele>
+    <name>Crossing #2</name>
+    <cmt>Crossing #2</cmt>
+    <desc>Crossing #2</desc>
+    <sym>Crossing</sym>
+  </wpt>
+
+  <wpt lat="-28.289767" lon="152.365618">
+    <ele>0.0000</ele>
+    <name>Intersect</name>
+    <cmt>Adjinbilly Rd</cmt>
+    <desc>Adjinbilly Rd</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+
+  <wpt lat="-28.292927" lon="152.36177">
+    <ele>0.0000</ele>
+    <name>Crossing #3</name>
+    <cmt>Crossing #3</cmt>
+    <desc>Crossing #3</desc>
+    <sym>Crossing</sym>
+  </wpt>
+
+  <wpt lat="-28.292633" lon="152.357236">
+    <ele>0.0000</ele>
+    <name>Crossing #4</name>
+    <cmt>Crossing #4</cmt>
+    <desc>Crossing #4</desc>
+    <sym>Crossing</sym>
+  </wpt>
+
+  <wpt lat="-28.295353" lon="152.357356">
+    <ele>0.0000</ele>
+    <name>Crossing #5</name>
+    <cmt>Crossing #5</cmt>
+    <desc>Crossing #5</desc>
+    <sym>Crossing</sym>
+  </wpt>
+
+  <wpt lat="-28.296717" lon="152.352930">
+    <ele>0.0000</ele>
+    <name>Crossing #6</name>
+    <cmt>Crossing #6</cmt>
+    <desc>Crossing #6</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  
+  <wpt lat="-28.298770" lon="152.352102">
+    <ele>0.0000</ele>
+    <name>Crossing #7</name>
+    <cmt>Crossing #7</cmt>
+    <desc>Crossing #7</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  
+  <wpt lat="-28.303223" lon="152.351900">
+    <ele>0.0000</ele>
+    <name>Crossing #8</name>
+    <cmt>Crossing #8</cmt>
+    <desc>Crossing #8</desc>
+    <sym>Crossing</sym>
+  </wpt>
+
+  <wpt lat="-28.306997" lon="152.351992">
+    <ele>0.0000</ele>
+    <name>Crossing #9</name>
+    <cmt>Crossing #9</cmt>
+    <desc>Crossing #9</desc>
+    <sym>Crossing</sym>
+  </wpt>
+
+  <wpt lat="-28.313773" lon="152.350474">
+    <ele>0.0000</ele>
+    <name>Crossing #10</name>
+    <cmt>Crossing #10</cmt>
+    <desc>Crossing #10</desc>
+    <sym>Crossing</sym>
+  </wpt>
+
+  <wpt lat="-28.334944" lon="152.325031">
+    <ele>0.0000</ele>
+    <name>Turn (NNW)</name>
+    <cmt>Condamine R Rd</cmt>
+    <desc>Condamine R Rd</desc>
+    <sym>Pin, Green</sym>
+  </wpt>
+
+  <wpt lat="-28.333027" lon="152.296342">
+    <ele>0.0000</ele>
+    <name>Killarney</name>
+    <cmt>Killarney, Queensland</cmt>
+    <desc>Killarney, Queensland</desc>
+    <sym>City (Medium)</sym>
+  </wpt>
+
+  <trk>
+    <name>14 River Crossings</name>
+    <trkseg>
+      <!-- Boonah -->
+      <trkpt lat="-27.993738" lon="152.682577">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Turn west Carneys Creek Road -->
+      <trkpt lat="-28.112585" lon="152.639319">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Croftby -->
+      <trkpt lat="-28.137659" lon="152.590288">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Carneys Creek -->
+      <trkpt lat="-28.214576" lon="152.537076">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- The Head -->
+      <trkpt lat="-28.237843" lon="152.480516">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Turn West South West to Condamine River Road -->
+      <trkpt lat="-28.27395" lon="152.446806">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Oaklea Bed & Breakfast -->
+      <trkpt lat="-28.278722" lon="152.439035">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Crossing #1 -->
+      <trkpt lat="-28.294141" lon="152.37411">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Crossing #2 -->
+      <trkpt lat="-28.293456" lon="152.37183">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Intersection with Adjinbilly Road -->
+      <trkpt lat="-28.289767" lon="152.365618">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Crossing #3 -->
+      <trkpt lat="-28.292927" lon="152.36177">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Crossing #4 -->
+      <trkpt lat="-28.292633" lon="152.357236">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Crossing #5 -->
+      <trkpt lat="-28.295353" lon="152.357356">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Crossing #6 -->
+      <trkpt lat="-28.296717" lon="152.352930">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Crossing #7 -->
+      <trkpt lat="-28.298770" lon="152.352102">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Crossing #8 -->
+      <trkpt lat="-28.303223" lon="152.351900">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Crossing #9 -->
+      <trkpt lat="-28.306997" lon="152.351992">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Crossing #10 -->
+      <trkpt lat="-28.313773" lon="152.350474">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Turn North-North-West to Condamine River Road -->
+      <trkpt lat="-28.334944" lon="152.325031">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+      <!-- Killarney -->
+      <trkpt lat="-28.333027" lon="152.296342">
+        <ele>0.0000</ele>
+        <time>2013-10-12T00:00:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
