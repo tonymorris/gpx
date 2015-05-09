@@ -32,6 +32,14 @@
   </copyright>
 </metadata>
 
+<wpt lat="-28.373014" lon="153.091977">
+  <ele>0.00000</ele>
+  <name>KTM Mirror</name>
+  <cmt>KTM Mirror</cmt>
+  <desc>KTM Mirror</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
 <wpt lat="-27.298654" lon="152.901167">
   <ele>0.00000</ele>
   <name>Old School Rd</name>
