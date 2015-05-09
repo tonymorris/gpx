@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<metadata>
+  <name>Route described as Across Australia Tour 16 Day Motorcycle Tour</name>
+  <desc>Route described as Across Australia Tour 16 Day Motorcycle Tour</desc>
+  <author>
+    <name>Tony Morris</name>
+    <email id="code" domain="tmorris.net"/>
+    <link href="http://tmorris.net/">
+      <text>Tony Morris</text>
+      <type>HTTP</type>
+    </link>
+  </author>
+  <copyright author="Tony Morris">
+    <year>2013</year>
+    <license>http://en.wikipedia.org/wiki/Beerware</license>
+  </copyright>
+  <link href="http://outbackadventuretreks.com.au/adventures/across-australia-tour/">
+    <text>Across Australia Tour 16 Day Motorcycle Tour</text>
+    <type>HTTP</type>
+  </link>
+</metadata> 
+
+<wpt lat="-32.055081" lon="115.747304">
+  <ele>0.00000</ele>
+  <name>Fremantle</name>
+  <cmt>Fremantle</cmt>
+  <desc>Fremantle</desc>
+</wpt>
+
+<wpt lat="-29.726222" lon="117.534027">
+  <ele>0.00000</ele>
+  <name>Lake Moore</name>
+  <cmt>Lake Moore</cmt>
+  <desc>Lake Moore</desc>
+</wpt>
+
+<wpt lat="-27.619665" lon="119.543495">
+  <ele>0.00000</ele>
+  <name>Lake Mason</name>
+  <cmt>Lake Mason</cmt>
+  <desc>Lake Mason</desc>
+</wpt>
+
+<wpt lat="-26.598351" lon="120.238953">
+  <ele>0.00000</ele>
+  <name>Wiluna</name>
+  <cmt>Wiluna</cmt>
+  <desc>Wiluna</desc>
+</wpt>
+
+<wpt lat="-25.909109" lon="122.354759">
+  <ele>0.00000</ele>
+  <name>Mingol Camp</name>
+  <cmt>Mingol Camp</cmt>
+  <desc>Mingol Camp</desc>
+</wpt>
+
+<wpt lat="-25.983" lon="122.967">
+  <ele>0.00000</ele>
+  <name>Gunbarrel Hwy</name>
+  <cmt>Gunbarrel Hwy</cmt>
+  <desc>Gunbarrel Hwy</desc>
+</wpt>
+
+<wpt lat="-25.796579" lon="122.975502">
+  <ele>0.00000</ele>
+  <name>Carnegie Statn</name>
+  <cmt>Carnegie Station (End of Gunbarrel Hwy)</cmt>
+  <desc>Carnegie Station (End of Gunbarrel Hwy)</desc>
+</wpt>
+
+<wpt lat="-25.547701" lon="125.332214">
+  <ele>0.00000</ele>
+  <name>Camp Beadell</name>
+  <cmt>Camp Beadell</cmt>
+  <desc>Camp Beadell</desc>
+</wpt>
+
+<wpt lat="-25.175089" lon="124.661819">
+  <ele>0.00000</ele>
+  <name>Geraldton Bore</name>
+  <cmt>Geraldton Bore</cmt>
+  <desc>Geraldton Bore</desc>
+</wpt>
+
+<wpt lat="-24.273861" lon="128.574036">
+  <ele>0.00000</ele>
+  <name>Desert Oaks Cp</name>
+  <cmt>Desert Oaks Camp</cmt>
+  <desc>Desert Oaks Camp</desc>
+</wpt>
+
+<wpt lat="-24.73741617" lon="127.4884485">
+  <ele>0.00000</ele>
+  <name>Lk Christopher</name>
+  <cmt>Lake Christopher</cmt>
+  <desc>Lake Christopher</desc>
+</wpt>
+
+<wpt lat="-25.037382" lon="128.302124">
+  <ele>0.00000</ele>
+  <name>Giles</name>
+  <cmt>Giles</cmt>
+  <desc>Giles</desc>
+</wpt>
+
+<wpt lat="-25.0195" lon="129.397483">
+  <ele>0.00000</ele>
+  <name>Lasseters Cave</name>
+  <cmt>Lasseters Cave</cmt>
+  <desc>Lasseters Cave</desc>
+</wpt>
+
+<wpt lat="-25.30479" lon="130.754044">
+  <ele>0.00000</ele>
+  <name>The Olgas</name>
+  <cmt>Kata Tjuta (The Olgas)</cmt>
+  <desc>Kata Tjuta (the Olgas)</desc>
+</wpt>
+
+<wpt lat="-25.241513" lon="130.983367">
+  <ele>0.00000</ele>
+  <name>Yulara</name>
+  <cmt>Yulara</cmt>
+  <desc>Yulara</desc>
+</wpt>
+
+<wpt lat="-24.5556" lon="134.0873">
+  <ele>0.00000</ele>
+  <name>Rodinga</name>
+  <cmt>Rodinga</cmt>
+  <desc>Rodinga</desc>
+</wpt>
+
+<wpt lat="-25.580382" lon="134.57993">
+  <ele>0.00000</ele>
+  <name>Finke</name>
+  <cmt>Finke</cmt>
+  <desc>Finke</desc>
+</wpt>
+
+<wpt lat="-26.422472" lon="135.503082">
+  <ele>0.00000</ele>
+  <name>Dalhousie Sprs</name>
+  <cmt>Dalhousie Springs</cmt>
+  <desc>Dalhousie Springs</desc>
+</wpt>
+
+<wpt lat="-26.28502711" lon="136.09820366">
+  <ele>0.00000</ele>
+  <name>Purnie Bore</name>
+  <cmt>Purnie Bore</cmt>
+  <desc>Purnie Bore</desc>
+</wpt>
+
+<wpt lat="-26.229317" lon="136.382892">
+  <ele>0.00000</ele>
+  <name>Rig Road Intsn</name>
+  <cmt>Rig Road Intersection</cmt>
+  <desc>Rig Road Intersection</desc>
+</wpt>
+
+<wpt lat="-26.4273" lon="137.37658">
+  <ele>0.00000</ele>
+  <name>Erabena Track</name>
+  <cmt>Erabena Track</cmt>
+  <desc>Erabena Track</desc>
+</wpt>
+
+<wpt lat="-26.066668" lon="137.614166">
+  <ele>0.00000</ele>
+  <name>Approdinna A K</name>
+  <cmt>Approdinna Attora Knolls</cmt>
+  <desc>Approdinna Attora Knolls</desc>
+</wpt>
+
+<wpt lat="-25.997219" lon="137.999603">
+  <ele>0.00000</ele>
+  <name>Peoppel Corner</name>
+  <cmt>Peoppel Corner</cmt>
+  <desc>Peoppel Corner</desc>
+</wpt>
+
+<wpt lat="-25.87904" lon="139.053146">
+  <ele>0.00000</ele>
+  <name>Big Red Dune</name>
+  <cmt>Big Red Dune</cmt>
+  <desc>Big Red Dune</desc>
+</wpt>
+
+<wpt lat="-25.899071" lon="139.351706">
+  <ele>0.00000</ele>
+  <name>Birdsville Htl</name>
+  <cmt>Birdsville Hotel</cmt>
+  <desc>Birdsville Hotel</desc>
+</wpt>
+
+<wpt lat="-25.693387" lon="140.744459">
+  <ele>0.00000</ele>
+  <name>Betoota</name>
+  <cmt>Betoota</cmt>
+  <desc>Betoota</desc>
+</wpt>
+
+<wpt lat="-25.422656" lon="142.655554">
+  <ele>0.00000</ele>
+  <name>Winora</name>
+  <cmt>Winora</cmt>
+  <desc>Winora</desc>
+</wpt>
+
+<wpt lat="-25.370009" lon="142.744414">
+  <ele>0.00000</ele>
+  <name>Cooper Creek</name>
+  <cmt>Cooper Creek</cmt>
+  <desc>Cooper Creek</desc>
+</wpt>
+
+<wpt lat="-24.830831" lon="143.059108">
+  <ele>0.00000</ele>
+  <name>Jundah</name>
+  <cmt>Jundah</cmt>
+  <desc>Jundah</desc>
+</wpt>
+
+<wpt lat="-23.440727" lon="144.251075">
+  <ele>0.00000</ele>
+  <name>Longreach</name>
+  <cmt>Longreach</cmt>
+  <desc>Longreach</desc>
+</wpt>
+
+<wpt lat="-20.553402" lon="147.844534">
+  <ele>0.00000</ele>
+  <name>Collinsville</name>
+  <cmt>Collinsville</cmt>
+  <desc>Collinsville</desc>
+</wpt>
+
+<wpt lat="-20.282929" lon="148.688529">
+  <ele>0.00000</ele>
+  <name>Cannonvale</name>
+  <cmt>Cannonvale</cmt>
+  <desc>Cannonvale</desc>
+</wpt>
+
+<wpt lat="-20.268719" lon="148.718424">
+  <ele>0.00000</ele>
+  <name>Airlie Beach</name>
+  <cmt>Airlie Beach</cmt>
+  <desc>Airlie Beach</desc>
+</wpt>
+
+<trk>
+<trkseg>
+
+<trkpt lat="-32.055081" lon="115.747304"></trkpt>
+<trkpt lat="-29.726222" lon="117.534027"></trkpt>
+<trkpt lat="-27.619665" lon="119.543495"></trkpt>
+<trkpt lat="-26.598351" lon="120.238953"></trkpt>
+<trkpt lat="-25.909109" lon="122.354759"></trkpt>
+<trkpt lat="-25.983" lon="122.967"></trkpt>
+<trkpt lat="-25.796579" lon="122.975502"></trkpt>
+<trkpt lat="-25.547701" lon="125.332214"></trkpt>
+<trkpt lat="-25.175089" lon="124.661819"></trkpt>
+<trkpt lat="-24.273861" lon="128.574036"></trkpt>
+<trkpt lat="-24.73741617" lon="127.4884485"></trkpt>
+<trkpt lat="-25.037382" lon="128.302124"></trkpt>
+<trkpt lat="-25.0195" lon="129.397483"></trkpt>
+<trkpt lat="-25.30479" lon="130.754044"></trkpt>
+<trkpt lat="-25.241513" lon="130.983367"></trkpt>
+<trkpt lat="-24.5556" lon="134.0873"></trkpt>
+<trkpt lat="-25.580382" lon="134.57993"></trkpt>
+<trkpt lat="-26.422472" lon="135.503082"></trkpt>
+<trkpt lat="-26.28502711" lon="136.09820366"></trkpt>
+<trkpt lat="-26.229317" lon="136.382892"></trkpt>
+<trkpt lat="-26.4273" lon="137.37658"></trkpt>
+<trkpt lat="-26.066668" lon="137.614166"></trkpt>
+<trkpt lat="-25.997219" lon="137.999603"></trkpt>
+<trkpt lat="-25.87904" lon="139.053146"></trkpt>
+<trkpt lat="-25.899071" lon="139.351706"></trkpt>
+<trkpt lat="-25.693387" lon="140.744459"></trkpt>
+<trkpt lat="-25.422656" lon="142.655554"></trkpt>
+<trkpt lat="-25.370009" lon="142.744414"></trkpt>
+<trkpt lat="-24.830831" lon="143.059108"></trkpt>
+<trkpt lat="-23.440727" lon="144.251075"></trkpt>
+<trkpt lat="-20.553402" lon="147.844534"></trkpt>
+<trkpt lat="-20.282929" lon="148.688529"></trkpt>
+<trkpt lat="-20.268719" lon="148.718424"></trkpt>
+</trkseg>
+</trk>
+
+</gpx>

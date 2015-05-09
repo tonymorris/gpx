@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Data.Geo.Route" version="1.1" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Ride of 22/23 April 2014</name>
+    <desc>Ride of 22/23 April 2014</desc>
+    <author>
+      <name>Tony Morris</name>
+      <email id="tonymorris" domain="gmail.com" />
+      <link href="http://tmorris.net/">
+        <text>Tony Morris</text>
+        <type>HTTP</type>
+      </link>
+    </author>
+    <copyright author="Tony Morris">
+      <year>2014</year>
+      <license>http://en.wikipedia.org/wiki/Beerware</license>
+    </copyright>
+  </metadata>
+  <wpt lat="-27.880202" lon="153.129509">
+    <name>Shell Tmborine</name>
+    <cmt>Shell Tmborine</cmt>
+    <desc>Shell Tmborine</desc>
+    <sym>Gas Station</sym>
+  </wpt>
+  <wpt lat="-27.931868" lon="153.079814">
+    <name>Flgstne Ck R T</name>
+    <cmt>Flgstne Ck R T</cmt>
+    <desc>Flgstne Ck R T</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-27.957439" lon="153.028670">
+    <name>Birnam Rge R T</name>
+    <cmt>Birnam Rge R T</cmt>
+    <desc>Birnam Rge R T</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-27.992526" lon="153.020171">
+    <name>Bdsrt-Nrng R T</name>
+    <cmt>Bdsrt-Nrng R T</cmt>
+    <desc>Bdsrt-Nrng R T</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-27.982090" lon="152.994886">
+    <name>Beaudesert</name>
+    <cmt>Beaudesert</cmt>
+    <desc>Beaudesert</desc>
+    <sym>City (Medium)</sym>
+  </wpt>
+  <wpt lat="-27.962380" lon="152.890453">
+    <name>U Allan Ck R T</name>
+    <cmt>U Allan Ck R T</cmt>
+    <desc>U Allan Ck R T</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-27.987020" lon="152.878720">
+    <name>U Allan Ck Fk1</name>
+    <cmt>U Allan Ck Fk1</cmt>
+    <desc>U. Allan Ck Rd fork (on left)</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-27.996420" lon="152.823090">
+    <name>U Allan Ck Fk2</name>
+    <cmt>U Allan Ck Fk2</cmt>
+    <desc>U. Allan Ck Rd fork (on left)</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.004820" lon="152.767600">
+    <name>Geiger Rd intn</name>
+    <cmt>Geiger Rd intn</cmt>
+    <desc>Geiger Rd Dunn Rd intersection</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-27.942770" lon="152.682360">
+    <name>Teviotville Tree</name>
+    <cmt>Teviotville Tree</cmt>
+    <desc>Teviotville Tree</desc>
+    <sym>Pin, Green</sym>
+  </wpt>
+  <wpt lat="-27.993937" lon="152.682493">
+    <name>Boonah</name>
+    <cmt>Boonah</cmt>
+    <desc>Boonah</desc>
+    <sym>City (Medium)</sym>
+  </wpt>
+  <wpt lat="-28.028160" lon="152.664789">
+    <name>Bunburra Rd Tn</name>
+    <cmt>Bunburra Rd Tn</cmt>
+    <desc>Bunburra Rd Tn</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.095058" lon="152.716523">
+    <name>Cannon Crk Trn</name>
+    <cmt>Cannon Crk Trn</cmt>
+    <desc>Cannon Crk Trn</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.169651" lon="152.726823">
+    <name>Boonah Rath Tn</name>
+    <cmt>Boonah Rath Tn</cmt>
+    <desc>Boonah Rath Tn</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.170445" lon="152.710260">
+    <name>Newman Rd Tn</name>
+    <cmt>Newman Rd Tn</cmt>
+    <desc>Newman Rd Tn</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.196660" lon="152.674211">
+    <name>Waterfall Ck R</name>
+    <cmt>Waterfall Ck R</cmt>
+    <desc>Waterfall Ck R</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.233852" lon="152.634680">
+    <name>Bartopia</name>
+    <cmt>Bartopia</cmt>
+    <desc>Bartopia</desc>
+    <sym>Lodge</sym>
+  </wpt>
+  <wpt lat="-28.214800" lon="152.613790">
+    <name>Crash site</name>
+    <cmt>Crash site</cmt>
+    <desc>Crash site</desc>
+    <sym>Pin, Red</sym>
+  </wpt>
+  <wpt lat="-28.242699" lon="152.586404">
+    <name>Fletcher Rd Tn</name>
+    <cmt>Fletcher Rd Tn</cmt>
+    <desc>Fletcher Rd Tn</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.228237" lon="152.566384">
+    <name>Carneys Ck R T</name>
+    <cmt>Carneys Ck R T</cmt>
+    <desc>Carneys Ck R T</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.262564" lon="152.534211">
+    <name>White Swamp Tn</name>
+    <cmt>White Swamp Tn</cmt>
+    <desc>White Swamp Tn</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.395808" lon="152.424765">
+    <name>Koreelah</name>
+    <cmt>Koreelah</cmt>
+    <desc>Koreelah</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="-28.438204" lon="152.391483">
+    <name>Tooloom Rd Tn</name>
+    <cmt>Tooloom Rd Tn</cmt>
+    <desc>Tooloom Rd Tn</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.517846" lon="152.448540">
+    <name>Upper Tooloom</name>
+    <cmt>Upper Tooloom</cmt>
+    <desc>Upper Tooloom</desc>
+    <sym>City (Small)</sym>
+  </wpt>
+  <wpt lat="-28.656540" lon="152.423100">
+    <name>Billys Rd Turn</name>
+    <cmt>Billys Rd Turn</cmt>
+    <desc>Billys Rd Turn</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.551590" lon="152.531470">
+    <name>Gooroobee Rd T</name>
+    <cmt>Gooroobee Rd T</cmt>
+    <desc>Gooroobee Rd T</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.513250" lon="152.526734">
+    <name>Tooloom Falls</name>
+    <cmt>Tooloom Falls</cmt>
+    <desc>Tooloom Falls</desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="-28.516910" lon="152.538350">
+    <name>Connells Rd Tn</name>
+    <cmt>Connells Rd Tn</cmt>
+    <desc>Connells Rd Tn</desc>
+    <sym>Pin, Blue</sym>
+  </wpt>
+  <wpt lat="-28.472340" lon="152.547950">
+    <name>Crown Hotel</name>
+    <cmt>Crown Hotel</cmt>
+    <desc>Crown Hotel</desc>
+    <sym>Lodge</sym>
+  </wpt>
+  <rte>
+    <rtept lat="-27.880202" lon="153.129509">
+      <name>Shell Tmborine</name>
+      <cmt>Shell Tmborine</cmt>
+      <desc>Shell Tmborine</desc>
+      <sym>Gas Station</sym>
+    </rtept>
+    <rtept lat="-27.931868" lon="153.079814">
+      <name>Flgstne Ck R T</name>
+      <cmt>Flgstne Ck R T</cmt>
+      <desc>Flgstne Ck R T</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-27.957439" lon="153.028670">
+      <name>Birnam Rge R T</name>
+      <cmt>Birnam Rge R T</cmt>
+      <desc>Birnam Rge R T</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-27.992526" lon="153.020171">
+      <name>Bdsrt-Nrng R T</name>
+      <cmt>Bdsrt-Nrng R T</cmt>
+      <desc>Bdsrt-Nrng R T</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-27.982090" lon="152.994886">
+      <name>Beaudesert</name>
+      <cmt>Beaudesert</cmt>
+      <desc>Beaudesert</desc>
+      <sym>City (Medium)</sym>
+    </rtept>
+    <rtept lat="-27.962380" lon="152.890453">
+      <name>U Allan Ck R T</name>
+      <cmt>U Allan Ck R T</cmt>
+      <desc>U Allan Ck R T</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-27.987020" lon="152.878720">
+      <name>U Allan Ck Fk1</name>
+      <cmt>U Allan Ck Fk1</cmt>
+      <desc>U. Allan Ck Rd fork (on left)</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-27.996420" lon="152.823090">
+      <name>U Allan Ck Fk2</name>
+      <cmt>U Allan Ck Fk2</cmt>
+      <desc>U. Allan Ck Rd fork (on left)</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.004820" lon="152.767600">
+      <name>Geiger Rd intn</name>
+      <cmt>Geiger Rd intn</cmt>
+      <desc>Geiger Rd Dunn Rd intersection</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-27.942770" lon="152.682360">
+      <name>Teviotville Tree</name>
+      <cmt>Teviotville Tree</cmt>
+      <desc>Teviotville Tree</desc>
+      <sym>Pin, Green</sym>
+    </rtept>
+    <rtept lat="-27.993937" lon="152.682493">
+      <name>Boonah</name>
+      <cmt>Boonah</cmt>
+      <desc>Boonah</desc>
+      <sym>City (Medium)</sym>
+    </rtept>
+    <rtept lat="-28.028160" lon="152.664789">
+      <name>Bunburra Rd Tn</name>
+      <cmt>Bunburra Rd Tn</cmt>
+      <desc>Bunburra Rd Tn</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.095058" lon="152.716523">
+      <name>Cannon Crk Trn</name>
+      <cmt>Cannon Crk Trn</cmt>
+      <desc>Cannon Crk Trn</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.169651" lon="152.726823">
+      <name>Boonah Rath Tn</name>
+      <cmt>Boonah Rath Tn</cmt>
+      <desc>Boonah Rath Tn</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.170445" lon="152.710260">
+      <name>Newman Rd Tn</name>
+      <cmt>Newman Rd Tn</cmt>
+      <desc>Newman Rd Tn</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.196660" lon="152.674211">
+      <name>Waterfall Ck R</name>
+      <cmt>Waterfall Ck R</cmt>
+      <desc>Waterfall Ck R</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.233852" lon="152.634680">
+      <name>Bartopia</name>
+      <cmt>Bartopia</cmt>
+      <desc>Bartopia</desc>
+      <sym>Lodge</sym>
+    </rtept>
+    <rtept lat="-28.214800" lon="152.613790">
+      <name>Crash site</name>
+      <cmt>Crash site</cmt>
+      <desc>Crash site</desc>
+      <sym>Pin, Red</sym>
+    </rtept>
+    <rtept lat="-28.242699" lon="152.586404">
+      <name>Fletcher Rd Tn</name>
+      <cmt>Fletcher Rd Tn</cmt>
+      <desc>Fletcher Rd Tn</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.228237" lon="152.566384">
+      <name>Carneys Ck R T</name>
+      <cmt>Carneys Ck R T</cmt>
+      <desc>Carneys Ck R T</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.262564" lon="152.534211">
+      <name>White Swamp Tn</name>
+      <cmt>White Swamp Tn</cmt>
+      <desc>White Swamp Tn</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.395808" lon="152.424765">
+      <name>Koreelah</name>
+      <cmt>Koreelah</cmt>
+      <desc>Koreelah</desc>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="-28.438204" lon="152.391483">
+      <name>Tooloom Rd Tn</name>
+      <cmt>Tooloom Rd Tn</cmt>
+      <desc>Tooloom Rd Tn</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.517846" lon="152.448540">
+      <name>Upper Tooloom</name>
+      <cmt>Upper Tooloom</cmt>
+      <desc>Upper Tooloom</desc>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="-28.656540" lon="152.423100">
+      <name>Billys Rd Turn</name>
+      <cmt>Billys Rd Turn</cmt>
+      <desc>Billys Rd Turn</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.551590" lon="152.531470">
+      <name>Gooroobee Rd T</name>
+      <cmt>Gooroobee Rd T</cmt>
+      <desc>Gooroobee Rd T</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.513250" lon="152.526734">
+      <name>Tooloom Falls</name>
+      <cmt>Tooloom Falls</cmt>
+      <desc>Tooloom Falls</desc>
+      <sym>Campground</sym>
+    </rtept>
+    <rtept lat="-28.516910" lon="152.538350">
+      <name>Connells Rd Tn</name>
+      <cmt>Connells Rd Tn</cmt>
+      <desc>Connells Rd Tn</desc>
+      <sym>Pin, Blue</sym>
+    </rtept>
+    <rtept lat="-28.472340" lon="152.547950">
+      <name>Crown Hotel</name>
+      <cmt>Crown Hotel</cmt>
+      <desc>Crown Hotel</desc>
+      <sym>Lodge</sym>
+    </rtept>
+  </rte>
+  <trk>
+    <name>Ride of 22/23 April 2014</name>
+    <cmt>Ride of 22/23 April 2014</cmt>
+    <desc>Ride of 22/23 April 2014</desc>
+    <trkseg>
+      <trkpt lat="-27.880202" lon="153.129509">
+        <name>Shell Tmborine</name>
+        <cmt>Shell Tmborine</cmt>
+        <desc>Shell Tmborine</desc>
+        <sym>Gas Station</sym>
+      </trkpt>
+      <trkpt lat="-27.931868" lon="153.079814">
+        <name>Flgstne Ck R T</name>
+        <cmt>Flgstne Ck R T</cmt>
+        <desc>Flgstne Ck R T</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-27.957439" lon="153.028670">
+        <name>Birnam Rge R T</name>
+        <cmt>Birnam Rge R T</cmt>
+        <desc>Birnam Rge R T</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-27.992526" lon="153.020171">
+        <name>Bdsrt-Nrng R T</name>
+        <cmt>Bdsrt-Nrng R T</cmt>
+        <desc>Bdsrt-Nrng R T</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-27.982090" lon="152.994886">
+        <name>Beaudesert</name>
+        <cmt>Beaudesert</cmt>
+        <desc>Beaudesert</desc>
+        <sym>City (Medium)</sym>
+      </trkpt>
+      <trkpt lat="-27.962380" lon="152.890453">
+        <name>U Allan Ck R T</name>
+        <cmt>U Allan Ck R T</cmt>
+        <desc>U Allan Ck R T</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-27.987020" lon="152.878720">
+        <name>U Allan Ck Fk1</name>
+        <cmt>U Allan Ck Fk1</cmt>
+        <desc>U. Allan Ck Rd fork (on left)</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-27.996420" lon="152.823090">
+        <name>U Allan Ck Fk2</name>
+        <cmt>U Allan Ck Fk2</cmt>
+        <desc>U. Allan Ck Rd fork (on left)</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.004820" lon="152.767600">
+        <name>Geiger Rd intn</name>
+        <cmt>Geiger Rd intn</cmt>
+        <desc>Geiger Rd Dunn Rd intersection</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-27.942770" lon="152.682360">
+        <name>Teviotville Tree</name>
+        <cmt>Teviotville Tree</cmt>
+        <desc>Teviotville Tree</desc>
+        <sym>Pin, Green</sym>
+      </trkpt>
+      <trkpt lat="-27.993937" lon="152.682493">
+        <name>Boonah</name>
+        <cmt>Boonah</cmt>
+        <desc>Boonah</desc>
+        <sym>City (Medium)</sym>
+      </trkpt>
+      <trkpt lat="-28.028160" lon="152.664789">
+        <name>Bunburra Rd Tn</name>
+        <cmt>Bunburra Rd Tn</cmt>
+        <desc>Bunburra Rd Tn</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.095058" lon="152.716523">
+        <name>Cannon Crk Trn</name>
+        <cmt>Cannon Crk Trn</cmt>
+        <desc>Cannon Crk Trn</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.169651" lon="152.726823">
+        <name>Boonah Rath Tn</name>
+        <cmt>Boonah Rath Tn</cmt>
+        <desc>Boonah Rath Tn</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.170445" lon="152.710260">
+        <name>Newman Rd Tn</name>
+        <cmt>Newman Rd Tn</cmt>
+        <desc>Newman Rd Tn</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.196660" lon="152.674211">
+        <name>Waterfall Ck R</name>
+        <cmt>Waterfall Ck R</cmt>
+        <desc>Waterfall Ck R</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.233852" lon="152.634680">
+        <name>Bartopia</name>
+        <cmt>Bartopia</cmt>
+        <desc>Bartopia</desc>
+        <sym>Lodge</sym>
+      </trkpt>
+      <trkpt lat="-28.214800" lon="152.613790">
+        <name>Crash site</name>
+        <cmt>Crash site</cmt>
+        <desc>Crash site</desc>
+        <sym>Pin, Red</sym>
+      </trkpt>
+      <trkpt lat="-28.242699" lon="152.586404">
+        <name>Fletcher Rd Tn</name>
+        <cmt>Fletcher Rd Tn</cmt>
+        <desc>Fletcher Rd Tn</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.228237" lon="152.566384">
+        <name>Carneys Ck R T</name>
+        <cmt>Carneys Ck R T</cmt>
+        <desc>Carneys Ck R T</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.262564" lon="152.534211">
+        <name>White Swamp Tn</name>
+        <cmt>White Swamp Tn</cmt>
+        <desc>White Swamp Tn</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.395808" lon="152.424765">
+        <name>Koreelah</name>
+        <cmt>Koreelah</cmt>
+        <desc>Koreelah</desc>
+        <sym>City (Small)</sym>
+      </trkpt>
+      <trkpt lat="-28.438204" lon="152.391483">
+        <name>Tooloom Rd Tn</name>
+        <cmt>Tooloom Rd Tn</cmt>
+        <desc>Tooloom Rd Tn</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.517846" lon="152.448540">
+        <name>Upper Tooloom</name>
+        <cmt>Upper Tooloom</cmt>
+        <desc>Upper Tooloom</desc>
+        <sym>City (Small)</sym>
+      </trkpt>
+      <trkpt lat="-28.656540" lon="152.423100">
+        <name>Billys Rd Turn</name>
+        <cmt>Billys Rd Turn</cmt>
+        <desc>Billys Rd Turn</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.551590" lon="152.531470">
+        <name>Gooroobee Rd T</name>
+        <cmt>Gooroobee Rd T</cmt>
+        <desc>Gooroobee Rd T</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.513250" lon="152.526734">
+        <name>Tooloom Falls</name>
+        <cmt>Tooloom Falls</cmt>
+        <desc>Tooloom Falls</desc>
+        <sym>Campground</sym>
+      </trkpt>
+      <trkpt lat="-28.516910" lon="152.538350">
+        <name>Connells Rd Tn</name>
+        <cmt>Connells Rd Tn</cmt>
+        <desc>Connells Rd Tn</desc>
+        <sym>Pin, Blue</sym>
+      </trkpt>
+      <trkpt lat="-28.472340" lon="152.547950">
+        <name>Crown Hotel</name>
+        <cmt>Crown Hotel</cmt>
+        <desc>Crown Hotel</desc>
+        <sym>Lodge</sym>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

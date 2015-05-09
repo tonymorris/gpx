@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<metadata>
+  <name>Transcription of route described by 5 Mate's, 10 Day's, 4571 Km's, Newcastle to Birdsville & back</name>
+  <desc>Transcription of route described by 5 Mate's, 10 Day's, 4571 Km's, Newcastle to Birdsville & back</desc>
+  <author>
+    <name>Tony Morris</name>
+    <email id="code" domain="tmorris.net"/>
+    <link href="http://tmorris.net/">
+      <text>Tony Morris</text>
+      <type>HTTP</type>
+    </link>
+  </author>
+  <copyright author="Tony Morris">
+    <year>2013</year>
+    <license>http://en.wikipedia.org/wiki/Beerware</license>
+  </copyright>
+  <link href="http://www.advrider.com/forums/showthread.php?t=742567">
+    <text>5 Mate's, 10 Day's, 4571 Km's, Newcastle to Birdsville & back</text>
+    <type>HTTP</type>
+  </link>
+</metadata>  
+
+<rte>
+  <name>Transcription of route described by 5 Mate's, 10 Day's, 4571 Km's, Newcastle to Birdsville & back</name>
+  <extensions>
+    <gpxx:RouteExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+      <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+      <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+    </gpxx:RouteExtension>
+  </extensions>
+
+  <rtept lat="-32.932732" lon="151.769764">
+    <ele>0.0000</ele>
+    <name>Newcastle</name>
+    <cmt>Newcastle</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-32.387717" lon="150.689149">
+    <ele>0.0000</ele>
+    <name>Bylong Vlly Wy</name>
+    <cmt>Bylong Valley Way</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-32.858681" lon="149.969287">
+    <ele>0.0000</ele>
+    <name>Kandos</name>
+    <cmt>Kandos</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-33.028239" lon="149.418082">
+    <ele>0.0000</ele>
+    <name>Hill End</name>
+    <cmt>Hill End</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-33.099092" lon="149.400752">
+    <ele>0.0000</ele>
+    <name>Macquarie River</name>
+    <cmt>Macquarie River Crossing</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-33.274144" lon="149.086161">
+    <ele>0.0000</ele>
+    <name>Orange</name>
+    <cmt>Orange</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-31.497775" lon="145.838642">
+    <ele>0.0000</ele>
+    <name>Cobar</name>
+    <cmt>Cobar</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-30.936243" lon="144.415255">
+    <ele>0.0000</ele>
+    <name>Tilpa</name>
+    <cmt>Tilpa</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-31.619767" lon="143.390408">
+    <ele>0.0000</ele>
+    <name>Wilcannia</name>
+    <cmt>Wilcannia</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-30.936243" lon="144.415255">
+    <ele>0.0000</ele>
+    <name>Tilpa</name>
+    <cmt>Tilpa</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-30.851248" lon="143.08588">
+    <ele>0.0000</ele>
+    <name>White Cliffs</name>
+    <cmt>White Cliffs</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-29.492804" lon="142.025013">
+    <ele>0.0000</ele>
+    <name>Tibooburra</name>
+    <cmt>Tibooburra</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-29.431001" lon="142.006552">
+    <ele>0.0000</ele>
+    <name>Family Hotel</name>
+    <cmt>Family Hotel</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-29.243795" lon="141.670661">
+    <ele>0.0000</ele>
+    <name>Toona Gate</name>
+    <cmt>Toona Gate</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-27.707239" lon="140.739641">
+    <ele>0.0000</ele>
+    <name>Innamincka</name>
+    <cmt>Innamincka</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-25.716389" lon="140.893889">
+    <ele>0.0000</ele>
+    <name>Deon's Lookout</name>
+    <cmt>Deon's Lookout</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+  <rtept lat="-25.896291" lon="139.353819">
+    <ele>0.0000</ele>
+    <name>Birdsville</name>
+    <cmt>Birdsville</cmt>
+    <desc>21-OCT-11 06:00:00</desc>
+    <sym>City (Small)</sym>
+    <extensions>
+      <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+      </gpxx:RoutePointExtension>
+    </extensions>
+  </rtept>
+
+</rte>
+
+</gpx>
