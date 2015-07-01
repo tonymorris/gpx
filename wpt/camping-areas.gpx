@@ -120,4 +120,12 @@
   <sym>Campground</sym>
 </wpt>
 
+<wpt lat="-26.616235" lon="152.650983">
+  <ele>0.0000</ele>
+  <name>Charlie Moreland</name>
+  <cmt>Charlie Moreland camping area</cmt>
+  <desc>Charlie Moreland camping area</desc>
+  <sym>Campground</sym>
+</wpt>
+
 </gpx>
