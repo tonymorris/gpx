@@ -56,8 +56,12 @@
   <sym>Campground</sym>
 </wpt>
 
-<!-- todo
-Teewah Beach camping area (north)
--->
+<wpt lat="-26.07502" lon="153.1241">
+  <ele>0.0000</ele>
+  <name>Teewah Beach</name>
+  <cmt>Teewah Beach Camping Area (north)</cmt>
+  <desc>Teewah Beach Camping Area (north)</desc>
+  <sym>Campground</sym>
+</wpt>
 
 </gpx>
