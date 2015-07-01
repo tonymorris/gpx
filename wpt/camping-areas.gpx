@@ -136,4 +136,20 @@
   <sym>Campground</sym>
 </wpt>
 
+<wpt lat="-26.366211" lon="152.58677">
+  <ele>0.0000</ele>
+  <name>Cedar Grove camping area</name>
+  <cmt>Cedar Grove camping area, Amamoor</cmt>
+  <desc>Cedar Grove camping area, Amamoor</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-26.35722" lon="152.55667">
+  <ele>0.0000</ele>
+  <name>Amamoor Creek camping area</name>
+  <cmt>Amamoor Creek camping area</cmt>
+  <desc>Amamoor Creek camping area</desc>
+  <sym>Campground</sym>
+</wpt>
+
 </gpx>
