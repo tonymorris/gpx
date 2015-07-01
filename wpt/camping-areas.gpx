@@ -128,4 +128,12 @@
   <sym>Campground</sym>
 </wpt>
 
+<wpt lat="-26.155" lon="152.55139">
+  <ele>0.0000</ele>
+  <name>Glastonbury Creek</name>
+  <cmt>Glastonbury Creek camping area</cmt>
+  <desc>Glastonbury Creek camping area</desc>
+  <sym>Campground</sym>
+</wpt>
+
 </gpx>
