@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    "THE BEER-WARE LICENSE" (Revision 42):
+    Tony Morris <tmorris@tmorris.net> wrote this file. As long as you retain this notice you
+    can do whatever you want with this stuff. If we meet some day, and you think
+    this stuff is worth it, you can buy me a beer in return.
+
+    Tony Morris
+-->
+
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<metadata>
+  <name>Camping Areas</name>
+  <desc>Camping Areas around south-east Queensland</desc>
+  <author>
+    <name>Tony Morris</name>
+    <email id="tmorris" domain="tmorris.net"/>
+    <link href="http://tmorris.net/">
+      <text>Tony Morris</text>
+      <type>HTTP</type>
+    </link>
+  </author>
+  <copyright author="Tony Morris">
+    <year>2015</year>
+    <license>http://en.wikipedia.org/wiki/Beerware</license>
+  </copyright>    
+</metadata>
+
+<wpt lat="-26.639435" lon="152.647745">
+  <ele>0.0000</ele>
+  <name>Booloumba Creek 1</name>
+  <cmt>Booloumba Creek 1 Camping Area</cmt>
+  <desc>Booloumba Creek 1 Camping Area</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-26.64547" lon="-26.64547">
+  <ele>0.0000</ele>
+  <name>Booloumba Creek 3</name>
+  <cmt>Booloumba Creek 3 Camping Area</cmt>
+  <desc>Booloumba Creek 3 Camping Area</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-26.64611" lon="152.64778">
+  <ele>0.0000</ele>
+  <name>Booloumba Creek 4</name>
+  <cmt>Booloumba Creek 4 Camping Area</cmt>
+  <desc>Booloumba Creek 4 Camping Area</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<!-- todo
+Teewah Beach camping area (north)
+-->
+
+</gpx>
