@@ -64,4 +64,60 @@
   <sym>Campground</sym>
 </wpt>
 
+<wpt lat="-27.016194" lon="152.697928">
+  <ele>0.0000</ele>
+  <name>Archer Creek</name>
+  <cmt>Archer Camping Area</cmt>
+  <desc>Archer Camping Area</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-27.059001" lon="152.69634">
+  <ele>0.0000</ele>
+  <name>Neurum Creek</name>
+  <cmt>Neurum Creek Camping Area</cmt>
+  <desc>Neurum Creek Camping Area</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-26.998443" lon="152.68636">
+  <ele>0.0000</ele>
+  <name>NCBR</name>
+  <cmt>Neurum Creek Bush Retreat</cmt>
+  <desc>Neurum Creek Bush Retreat</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-27.072682" lon="152.614670">
+  <ele>0.0000</ele>
+  <name>Camp Somerset</name>
+  <cmt>Camp Somerset</cmt>
+  <desc>Camp Somerset</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-27.00472" lon="152.5525">
+  <ele>0.0000</ele>
+  <name>Kilcoy Farmstay</name>
+  <cmt>Kilcoy Farmstay</cmt>
+  <desc>Kilcoy Farmstay</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-27.12139" lon="152.55028">
+  <ele>0.0000</ele>
+  <name>Somerset Dam Campground</name>
+  <cmt>Somerset Dam Campground</cmt>
+  <desc>Somerset Dam Campground</desc>
+  <sym>Campground</sym>
+</wpt>
+
+<wpt lat="-26.57" lon="152.79">
+  <ele>0.0000</ele>
+  <name>Gheerulla</name>
+  <cmt>Gheerulla camping area</cmt>
+  <desc>Gheerulla camping area</desc>
+  <sym>Campground</sym>
+</wpt>
+
 </gpx>
