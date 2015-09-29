@@ -64,4 +64,20 @@
   <sym>Swimming Area</sym>
 </wpt>
 
+<wpt lat="-27.05043" lon="152.68987">
+  <ele>0.0000</ele>
+  <name>Rocky Hole</name>
+  <cmt>Rocky Hole</cmt>
+  <desc>Rocky Hole</desc>
+  <sym>Swimming Area</sym>
+</wpt>
+
+<wpt lat="-11.4402" lon="142.4336">
+  <ele>0.0000</ele>
+  <name>Fruit Bat Falls</name>
+  <cmt>Fruit Bat Falls</cmt>
+  <desc>Fruit Bat Falls</desc>
+  <sym>Swimming Area</sym>
+</wpt>
+
 </gpx>
