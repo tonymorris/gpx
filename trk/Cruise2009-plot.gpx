@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    "THE BEER-WARE LICENSE" (Revision 42):
+    <code@tmorris.net> wrote this file. As long as you retain this notice you
+    can do whatever you want with this stuff. If we meet some day, and you think
+    this stuff is worth it, you can buy me a beer in return Tony Morris
+-->
+
+<gpx version="1.1" creator="Tony Morris code@tmorris.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+<metadata>
+  <name>Cruise P&amp;O Pacific Sun 10/10/2009 to 24/10/2009</name>
+  <desc>Brisbane - Noumea - Suva - Savusavu - Port Denarau - Vila - Mystery Island - Isle of Pines - Brisbane</desc>
+  <author>
+    <name>Tony Morris</name>
+    <email id="code" domain="tmorris.net"/>
+    <link href="http://tmorris.net">
+      <text>Tony Morris</text>
+      <type>HTTP</type>
+    </link>
+  </author>
+  <copyright author="Tony Morris">
+    <year>2009</year>
+    <license>http://en.wikipedia.org/wiki/Beerware</license>
+  </copyright>
+  <link href="http://www.pocruises.com.au/html/n932-south-pacific.cfm">
+    <text>Fiji Adventure, Pacific Sun</text>
+    <type>HTTP</type>
+  </link>
+</metadata>
+
+<wpt lat="-27.441175" lon="153.068382">
+  <ele>0.000000</ele>
+  <time>2009-10-10T14:00:00Z</time>
+  <name>#Bris Terminal</name>
+  <cmt>Sat 10/10/2009 1400</cmt>
+</wpt>
+<wpt lat="-22.271540" lon="166.436696">
+  <ele>0.000000</ele>
+  <time>2009-10-13T08:00:00Z</time>
+  <name>#Noumea,NC</name>
+  <cmt>Tue 13/10/2009 0800-1630</cmt>
+</wpt>
+<wpt lat="-18.133756" lon="178.423555">
+  <ele>0.000000</ele>
+  <time>2009-10-15T10:00:00Z</time>
+  <name>#Suva,Fiji</name>
+  <cmt>Thu 15/10/2009 1000-1800</cmt>
+</wpt>
+<wpt lat="-16.789244" lon="179.302582">
+  <ele>0.000000</ele>
+  <time>2009-10-16T08:00:00Z</time>
+  <name>#Savusavu,Fiji</name>
+  <cmt>Fri 16/10/2009 0800-1800</cmt>
+</wpt>
+<wpt lat="-17.772139" lon="177.381949">
+  <ele>0.000000</ele>
+  <time>2009-10-17T08:00:00Z</time>
+  <name>#Port Denarau</name>
+  <cmt>Sat 17/10/2009 0800-1800</cmt>
+</wpt>
+<wpt lat="-17.756500" lon="168.299390">
+  <ele>0.000000</ele>
+  <time>2009-10-19T08:00:00Z</time>
+  <name>#Port Vila,Vtu</name>
+  <cmt>Mon 19/10/2009 0800-1800</cmt>
+</wpt>
+<wpt lat="-20.112326" lon="169.792431">
+  <ele>0.000000</ele>
+  <time>2009-10-20T08:00:00Z</time>
+  <name>#Aneityum,Vtu</name>
+  <cmt>Tue 20/10/2009 0800-1700</cmt>
+  <desc>Aneityum</desc>
+</wpt>
+<wpt lat="-22.658618" lon="167.430447">
+  <ele>0.000000</ele>
+  <time>2009-10-21T08:00:00Z</time>
+  <name>#Isle of Pines</name>
+  <cmt>Wed 21/10/2009 0800-1700</cmt>
+</wpt>
+
+<rte>
+  <name>Cruise P&amp;O Pacific Sun 10/10/2009 to 24/10/2009</name>
+  <link href="http://www.pocruises.com.au/html/n932-south-pacific.cfm">
+    <text>Fiji Adventure, Pacific Sun</text>
+    <type>HTTP</type>
+  </link>
+  <rtept lat="-27.441175" lon="153.068382">
+    <ele>0.000000</ele>
+    <time>2009-10-10T14:00:00Z</time>
+    <name>Brisbane Cruise Terminal</name>
+    <cmt>Sat 10/10/2009 1400</cmt>
+  </rtept>
+  <rtept lat="-22.271540" lon="166.436696">
+    <ele>0.000000</ele>
+    <time>2009-10-13T08:00:00Z</time>
+    <name>Noumea, New Caledonia</name>
+    <cmt>Tue 13/10/2009 0800-1630</cmt>
+  </rtept>
+  <rtept lat="-18.133756" lon="178.423555">
+    <ele>0.000000</ele>
+    <time>2009-10-15T10:00:00Z</time>
+    <name>Suva, Fiji</name>
+    <cmt>Thu 15/10/2009 1000-1800</cmt>
+  </rtept>
+  <rtept lat="-16.789244" lon="179.302582">
+    <ele>0.000000</ele>
+    <time>2009-10-16T08:00:00Z</time>
+    <name>Savusavu, Fiji</name>
+    <cmt>Fri 16/10/2009 0800-1800</cmt>
+  </rtept>
+  <rtept lat="-17.772139" lon="177.381949">
+    <ele>0.000000</ele>
+    <time>2009-10-17T08:00:00Z</time>
+    <name>Port Denarau, Fiji</name>
+    <cmt>Sat 17/10/2009 0800-1800</cmt>
+  </rtept>
+  <rtept lat="-17.756500" lon="168.299390">
+    <ele>0.000000</ele>
+    <time>2009-10-17T08:00:00Z</time>
+    <name>Port Vila, Vanuatu</name>
+    <cmt>Mon 19/10/2009 0800-1800</cmt>
+  </rtept>
+  <rtept lat="-20.112326" lon="169.792431">
+    <ele>0.000000</ele>
+    <time>2009-10-20T08:00:00Z</time>
+    <name>Mystery Island, Vanuatu</name>
+    <cmt>Tue 20/10/2009 0800-1700</cmt>
+    <desc>Aneityum</desc>
+  </rtept>
+  <rtept lat="-22.658618" lon="167.430447">
+    <ele>0.000000</ele>
+    <time>2009-10-21T08:00:00Z</time>
+    <name>Isle of Pines, New Caledonia</name>
+    <cmt>Wed 21/10/2009 0800-1700</cmt>
+  </rtept>
+  <rtept lat="-27.441175" lon="153.068382">
+    <ele>0.000000</ele>
+    <time>2009-10-24T06:00:00Z</time>
+    <name>Brisbane Cruise Terminal</name>
+    <cmt>Sat 24/10/2009 1400</cmt>
+  </rtept>
+</rte>
+
+</gpx>
+
