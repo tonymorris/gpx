@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="GPSMAP 62s" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
   <metadata>
-    <link href="http://www.garmin.com">
-      <text>Garmin International</text>
-    </link>
-    <time>2016-07-24T00:33:54Z</time>
+    <name>Ride, Bellbird Park to Stanthorpe</name>
+    <desc>Track Log using Garmin 62s device mounted to KTM 690 Enduro R motorcycle</desc>
+    <author>
+      <name>Tony Morris</name>
+      <email id="code" domain="tmorris.net"/>
+      <link href="http://tmorris.net/">
+        <text>Tony Morris</text>
+        <type>HTTP</type>
+      </link>
+    </author>
+    <copyright author="Tony Morris">
+      <year>2015</year>
+      <license>http://en.wikipedia.org/wiki/Beerware</license>
+    </copyright>
+    <keywords>Stanthorpe, Queensland, Motorcycle, KTM</keywords>
   </metadata>
+
   <trk>
-    <name>2016-07-23 09:51:10 Day</name>
-    <extensions>
-      <gpxx:TrackExtension>
-        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
-      </gpxx:TrackExtension>
-    </extensions>
     <trkseg>
       <trkpt lat="-27.6490753703" lon="152.8871668596">
         <ele>22.73</ele>
