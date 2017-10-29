@@ -56,4 +56,20 @@
   <sym>Park</sym>
 </wpt>
 
+<wpt lat="-26.994003" lon="152.662693">
+  <ele>574.000000</ele>
+  <name>?Heli</name>
+  <cmt>Helicopter</cmt>
+  <cmt>Helicopter</cmt>
+  <sym>Bell</sym>
+</wpt>
+
+<wpt lat="-27.015834" lon="152.677600">
+  <ele>574.000000</ele>
+  <name>Gate to Heli</name>
+  <cmt>Gate to Helicopter</cmt>
+  <cmt>Gate to Helicopter, TRK 329M for 2.86km to heli</cmt>
+  <sym>Pin, Green</sym>
+</wpt>
+
 </gpx>
