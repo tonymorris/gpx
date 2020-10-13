@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    "THE BEER-WARE LICENSE" (Revision 42):
+    Tony Morris <tmorris@tmorris.net> wrote this file. As long as you retain this notice you
+    can do whatever you want with this stuff. If we meet some day, and you think
+    this stuff is worth it, you can buy me a beer in return.
+
+    Tony Morris
+-->
+
+<gpx
+  version="1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<metadata>
+  <name>2021 Cape York Safari 07/08/2021 - 21/08/2021</name>
+  <desc>Sydney Social Flying through Kimberley Air Safaris has arranged a two week Air Safari to Cape York from August 7 to August 21, 2021.  With all ground arrangements taken care of, pilots, family and friends flying in their aircraft need only enjoy the spectacular scenery from the air that Queensland has to offer.</desc>
+  <author>
+    <name>Tony Morris</name>
+    <email id="tmorris" domain="tmorris.net"/>
+    <link href="http://tmorris.net">
+      <text>Tony Morris</text>
+      <type>HTTP</type>
+    </link>
+  </author>
+  <copyright author="Tony Morris">
+    <year>2020</year>
+    <license>http://en.wikipedia.org/wiki/Beerware</license>
+  </copyright>
+  <link href="https://socialflying.com.au/cape-york-safari">
+    <text>Cape York Safari | Sydney Social Flying</text>
+    <type>HTTP</type>
+  </link>
+</metadata>
+
+<wpt lat="-33.923618" lon="150.990312">
+  <ele>0.00000</ele>
+  <name>YSBK</name>
+  <cmt>Bankstown Aerodrome</cmt>
+  <desc>Bankstown Aerodrome</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-31.432211" lon="152.864466">
+  <ele>4.572</ele>
+  <name>YPMQ 118.1 03/21</name>
+  <cmt>Port Macquarie Airport</cmt>
+  <desc>Port Macquarie Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-28.834886" lon="153.560598">
+  <ele>0.00000</ele>
+  <name>YBNA 124.2 06/24</name>
+  <cmt>Ballina Airport</cmt>
+  <desc>Ballina Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-27.137451" lon="153.364239">
+  <ele>8.00000</ele>
+  <name>YTGA 119.4 17/35</name>
+  <cmt>Tangalooma Airfield</cmt>
+  <desc>Tangalooma Airfield</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-26.803320" lon="153.104969">
+  <ele>0.00000</ele>
+  <name>YCDR 125.85 05/12 23/30</name>
+  <cmt>Caloundra Aerodrome</cmt>
+  <desc>Caloundra Aerodrome</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-25.321126" lon="152.882686">
+  <ele>18.288</ele>
+  <name>YHBA 126.55 11/29</name>
+  <cmt>Hervey Bay Airport</cmt>
+  <desc>Hervey Bay Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-24.20224" lon="151.8925">
+  <ele>9.00000</ele>
+  <name>YAWT 124.1 14/32</name>
+  <cmt>Agnes Water Airport</cmt>
+  <desc>Agnes Water Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-23.376567" lon="150.473893">
+  <ele>10.9728</ele>
+  <name>YBRK CTR 15/33 04/22</name>
+  <cmt>Rockhampton Airport</cmt>
+  <desc>Rockhampton Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-21.4217" lon="149.2167">
+  <ele>0.00000</ele>
+  <name>SRIN</name>
+  <cmt>Sarina</cmt>
+  <desc>Sarina</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-20.803247" lon="149.278778">
+  <ele>11.00000</ele>
+  <name>YBPI 135.5 14/32</name>
+  <cmt>Brampton Island</cmt>
+  <desc>Brampton Island</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-20.277261" lon="149.037317">
+  <ele>0.00000</ele>
+  <name>YWHN 15/33</name>
+  <cmt>Whitehaven Seaplane Base</cmt>
+  <desc>Whitehaven Seaplane Base</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-20.277985" lon="148.755829">
+  <ele>0.00000</ele>
+  <name>YSHR 14/32</name>
+  <cmt>Shute Harbour</cmt>
+  <desc>Shute Harbour</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-19.248242" lon="146.764877">
+  <ele>0.00000</ele>
+  <name>YBTL CTR 01/19</name>
+  <cmt>Townsville International Airport</cmt>
+  <desc>Townsville International Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-18.66457" lon="146.145118">
+  <ele>15.00000</ele>
+  <name>YIGM 126.7 05/23</name>
+  <cmt>Ingham Airport</cmt>
+  <desc>Ingham Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-16.292301" lon="145.497413">
+  <ele>0.00000</ele>
+  <name>YSND 09/27</name>
+  <cmt>Snapper Island Seaplane Base</cmt>
+  <desc>Snapper Island Seaplane Base</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-15.443448" lon="145.182643">
+  <ele>8.00000</ele>
+  <name>YCKN 126.7 11/29</name>
+  <cmt>Cooktown Airport</cmt>
+  <desc>Cooktown Airport</desc>
+  <sym>Block, red</sym>
+</wpt>
+
+<wpt lat="-14.97095" lon="145.311703">
+  <ele>14.00000</ele>
+  <name>YCFL 118.2 12/30</name>
+  <cmt>Cape Flattery Airport</cmt>
+  <desc>Cape Flattery Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<!-- ? YCME Cape Melville ? -->
+
+<wpt lat="-12.139187" lon="142.613844">
+  <ele>0.00000</ele>
+  <name>YBWL</name>
+  <cmt>Bramwell Station Airport</cmt>
+  <desc>Bramwell Station Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-10.585264" lon="142.288656">
+  <ele>13.1064</ele>
+  <name>YHID 126.5 14/32 08/26</name>
+  <cmt>Horn Island</cmt>
+  <desc>Horn Island</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-9.949672" lon="142.195068">
+  <ele>9.144</ele>
+  <name>YMAA 126.5 15/33</name>
+  <cmt>Mabuiag Island</cmt>
+  <desc>Mabuiag Island</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-9.378333" lon="142.625">
+  <ele>4.572</ele>
+  <name>YSII 126.7 12/30</name>
+  <cmt>Saibai Island</cmt>
+  <desc>Saibai Island</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-9.914862" lon="144.054393">
+  <ele>100.584</ele>
+  <name>YMAE 126.7 14/32</name>
+  <cmt>Murray/Mer Island</cmt>
+  <desc>Murray/Mer Island</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-13.06491" lon="142.453601">
+  <ele>85.00000</ele>
+  <name>YMEU 122.1 09/27</name>
+  <cmt>Merluna Airport</cmt>
+  <desc>Merluna Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-13.762788" lon="143.117384">
+  <ele>162.00000</ele>
+  <name>YCOE 126.7 11/29</name>
+  <cmt>Coen Airport</cmt>
+  <desc>Coen Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-14.896381" lon="141.609204">
+  <ele>3.00000</ele>
+  <name>YPMP 126.7 14/32</name>
+  <cmt>PPormpuraaw Airport</cmt>
+  <desc>Pormpuraaw Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-17.451277" lon="140.833849">
+  <ele>5.4864</ele>
+  <name>YKMB 126.7 03/21</name>
+  <cmt>Karumba Airport</cmt>
+  <desc>Karumba Airport</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-17.750563" lon="139.532858">
+  <ele>6.4008</ele>
+  <name>YBKT 126.7 03/21</name>
+  <cmt>Burketown Airport</cmt>
+  <desc>Burketown Airport</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-18.694727" lon="138.527727">
+  <ele>132.00000</ele>
+  <name>YALG 126.7 05/23</name>
+  <cmt>Adels Grove Airport</cmt>
+  <desc>Adels Grove Airport</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-20.668229" lon="141.718405">
+  <ele>123.139</ele>
+  <name>YJLC 126.7 10/28</name>
+  <cmt>Julia Creek Airport</cmt>
+  <desc>Julia Creek Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-23.431996" lon="144.277436">
+  <ele>191.11</ele>
+  <name>YLRE 126.7 04/22</name>
+  <cmt>Longreach Airport</cmt>
+  <desc>Longreach Airport</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-26.09333333" lon="143.45166667">
+  <ele>0.00000</ele>
+  <name>Ray Station</name>
+  <cmt>Ray Station</cmt>
+  <desc>Ray Station</desc>
+  <sym>Block, Red</sym>
+</wpt>
+
+<wpt lat="-26.606189" lon="144.257394">
+  <ele>199.644</ele>
+  <name>YQLP 126.7 09/27 18/36</name>
+  <cmt>Quilpie Airport</cmt>
+  <desc>Quilpie Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-30.031992" lon="148.125472">
+  <ele>133.807</ele>
+  <name>YWLG 126.7 05/23 18/36</name>
+  <cmt>Walgett Airport</cmt>
+  <desc>Walgett Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<wpt lat="-32.562434" lon="149.609325">
+  <ele>470.916</ele>
+  <name>YMDG 126.7 04/22 18/34</name>
+  <cmt>Mudgee Airport</cmt>
+  <desc>Mudgee Airport</desc>
+  <sym>Block, Blue</sym>
+</wpt>
+
+<!--
+
+TODO:
+runways
+elevations
+frequencies
+meta/description
+track
+
+-->
+
+
+</gpx>
